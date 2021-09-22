@@ -1,4 +1,4 @@
-# Projects list:
+# Project list:
 1. Zillow real estate market information
  - This was a comparison of US housing prices over the past 15 years.
  - Visual representations of the information can be found at: https://public.tableau.com/app/profile/jeff.akins/viz/HousingMarketRegionalPriceTrends/Map
