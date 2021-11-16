@@ -1,7 +1,7 @@
-alternative-fuel-stations-2012-csv-1.csv
-alternative-fuel-stations-2021-csv-3.csv
-LADOT_Traffic_Counts_Summary.csv
 env.py
 .DS_Store
 .ipynb_checkpoints/
 __pycache__
+*.csv
+*.json
+*.txt
